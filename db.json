@@ -2,17 +2,19 @@
   "banners": [
     {
       "id": 1,
-      "link": "/img/banner/coffee.jpg",
+      "img": "/img/banner/coffee.jpg",
       "alt": "coffee"
     },
     {
       "id": 2,
-      "link": "/img/banner/drink.jpg",
+      "img": "/img/banner/drink.jpg",
+      "link": "/menu/type/good/3",
       "alt": "drink"
     },
     {
       "id": 3,
-      "link": "/img/banner/dessert.jpg",
+      "img": "/img/banner/dessert.jpg",
+      "link": "/menu/type/good/6",
       "alt": "dessert"
     }
   ],
@@ -69,7 +71,8 @@
         "features": {
           "flavor": "選用香水草莓，果香濃郁且酸甜平衡，搭配細緻滑順的優格基底，每一口都清爽無負擔",
           "features": "不含香料、色素與化學添加物",
-          "ingredients": "來自苗栗武榮草莓園，採用無農藥、無化肥的安心栽培方式"
+          "ingredients": "來自苗栗武榮草莓園，採用無農藥、無化肥的安心栽培方式",
+          "shelfLife":"冷藏2天內食用完畢"
         },
         "nutritionFacts": [
           "1份 (362gl) ",
@@ -99,7 +102,8 @@
         "features": {
           "flavor": "濃郁的義式巧克力與香醇咖啡完美結合，入口香甜，餘韻醇厚",
           "features": "使用高品質巧克力與精品咖啡豆，保證純正風味",
-          "ingredients": "精選義大利進口巧克力粉，搭配手工烘焙咖啡豆與新鮮牛奶"
+          "ingredients": "精選義大利進口巧克力粉，搭配手工烘焙咖啡豆與新鮮牛奶",
+          "shelfLife":"冷藏2天內食用完畢"
         },
         "nutritionFacts": [
           "1杯 (350ml)",
@@ -132,7 +136,8 @@
         "features": {
           "flavor": "清甜多汁的西瓜風味，結合微酸的檸檬特調，帶來夏日清涼口感",
           "features": "不含人工色素與香料，保留水果原汁原味",
-          "ingredients": "採用新鮮西瓜汁與天然檸檬汁調製而成，無化學添加"
+          "ingredients": "採用新鮮西瓜汁與天然檸檬汁調製而成，無化學添加",
+          "shelfLife":"冷藏2天內食用完畢"
         },
         "nutritionFacts": [
           "1杯 (400ml)",
@@ -165,7 +170,8 @@
         "features": {
           "flavor": "濃郁芝士香搭配嫩滑蘑菇，麵包酥脆，內餡濃厚，層次豐富",
           "features": "選用優質乳酪與新鮮蘑菇，無添加人工調味",
-          "ingredients": "採用現烤麵包與手工調配餡料，健康美味"
+          "ingredients": "採用現烤麵包與手工調配餡料，健康美味",
+          "shelfLife":"冷藏2天內食用完畢"
         },
         "nutritionFacts": [
           "1份 (280g)",
@@ -198,7 +204,8 @@
         "features": {
           "flavor": "濃郁的莓果風味，搭配柔滑的慕斯質地，入口即化，酸甜平衡，層次豐富",
           "features": "不含香料、色素與化學添加物，天然食材製作",
-          "ingredients": "採用新鮮莓果，結合優質乳品，製作出綿密的慕斯口感"
+          "ingredients": "採用新鮮莓果，結合優質乳品，製作出綿密的慕斯口感",
+          "shelfLife":"冷藏2天內食用完畢"
         },
         "nutritionFacts": [
           "1份 (350g)",
@@ -228,7 +235,8 @@
         "features": {
           "flavor": "酥脆外殼搭配柔滑內餡，提供抹茶、香草、巧克力、草莓等多種口味，層次豐富，甜而不膩",
           "features": "不含人工添加物，精選天然食材，每一口都充滿細膩手工風味",
-          "ingredients": "採用優質杏仁粉、新鮮蛋白與天然調味料製作，搭配多種風味內餡，口感絕佳"
+          "ingredients": "採用優質杏仁粉、新鮮蛋白與天然調味料製作，搭配多種風味內餡，口感絕佳",
+          "shelfLife":"冷藏2天內食用完畢"
         },
         "nutritionFacts": [
           "1份 (280g)",
@@ -258,7 +266,8 @@
         "features": {
           "flavor": "濃厚的靜岡抹茶香氣與柔滑的生乳餡相結合，微苦帶甜，尾韻悠長",
           "features": "不含人工添加物，選用天然抹茶粉，健康美味兼具",
-          "ingredients": "採用日本靜岡抹茶粉，搭配優質鮮奶油與低筋麵粉製作，口感細緻"
+          "ingredients": "採用日本靜岡抹茶粉，搭配優質鮮奶油與低筋麵粉製作，口感細緻",
+          "shelfLife":"冷藏2天內食用完畢"
         },
         "nutritionFacts": [
           "1份 (300g)",
@@ -287,7 +296,8 @@
         "features": {
           "flavor": "清新細膩的抹茶香氣，結合濃郁的奶香，茶與奶的比例完美調和",
           "features": "不添加人工甜味劑，選用高品質抹茶粉與鮮奶",
-          "ingredients": "採用日本靜岡抹茶粉，搭配新鮮牛奶，展現純粹自然風味"
+          "ingredients": "採用日本靜岡抹茶粉，搭配新鮮牛奶，展現純粹自然風味",
+          "shelfLife":"冷藏2天內食用完畢"
         },
         "nutritionFacts": [
           "1杯 (350ml)",
