@@ -3,6 +3,7 @@
     {
       "id": 1,
       "img": "/img/banner/coffee.jpg",
+      "link": "/store",
       "alt": "coffee"
     },
     {
@@ -14,7 +15,6 @@
     {
       "id": 3,
       "img": "/img/banner/dessert.jpg",
-      "link": "/menu/type/good/6",
       "alt": "dessert"
     }
   ],
@@ -153,7 +153,7 @@
       "id": 4,
       "name": "熱壓蘑菇芝士",
       "link": "/menu/type/good/4",
-      "img": "/img/menuGoods/cakeA.jpg",
+      "img": "/img/menuGoods/cakeJ.jpg",
       "indexImg": "/img/indexMenu/mushroomSandwich.jpg",
       "price": 100,
       "type": 4,
@@ -162,7 +162,7 @@
       ],
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeA.jpg",
+          "/img/menuGoods/cakeJ.jpg",
           "/img/menuGoods/cakeA.jpg",
           "/img/menuGoods/cakeC.jpg",
           "/img/menuGoods/cakeD.jpg"
@@ -221,13 +221,13 @@
       "id": 6,
       "name": "法式馬卡龍",
       "link": "/menu/type/good/6",
-      "img": "/img/menuGoods/cakeF.jpg",
+      "img": "/img/menuGoods/cakeK.jpg",
       "indexImg": "/img/indexMenu/macaron.jpg",
       "price": 130,
       "type": 3,
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeF.jpg",
+          "/img/menuGoods/cakeK.jpg",
           "/img/menuGoods/cakeA.jpg",
           "/img/menuGoods/cakeC.jpg",
           "/img/menuGoods/cakeD.jpg"
