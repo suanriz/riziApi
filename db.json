@@ -2,19 +2,19 @@
   "banners": [
     {
       "id": 1,
-      "img": "/img/banner/coffee.jpg",
+      "img": "img/banner/coffee.jpg",
       "link": "/store",
       "alt": "coffee"
     },
     {
       "id": 2,
-      "img": "/img/banner/drink.jpg",
+      "img": "img/banner/drink.jpg",
       "link": "/menu/type/good/3",
       "alt": "drink"
     },
     {
       "id": 3,
-      "img": "/img/banner/dessert.jpg",
+      "img": "img/banner/dessert.jpg",
       "alt": "dessert"
     }
   ],
@@ -23,28 +23,28 @@
       "id": 4,
       "title": "憑振興放送券，享經典拿鐵、經典黑咖啡88折",
       "introduction": "咖啡是最溫暖的顏色，最療癒的能量飲，對抗疫情期間，大家都辛苦了，讓我們一同攜手振興未來，開心喝咖啡",
-      "img": "/img/newsView/id4.jpg",
+      "img": "img/newsView/id4.jpg",
       "type": 1
     },
     {
       "id": 3,
       "title": "好日子咖啡輕食x知名植物奶品牌OATLY聯名",
       "introduction": "OATLY燕麥奶選用來自北歐優質燕麥製成，不添加防腐劑或甜味劑，打造美味健康的植物奶！",
-      "img": "/img/newsView/id3.jpg",
+      "img": "img/newsView/id3.jpg",
       "type": 2
     },
     {
       "id": 2,
       "title": "12月會員日，享年度最低85折優惠",
       "introduction": "所有來客消費咖啡系列任一品項，享買一送一優惠，搭配指定甜點享九折優惠！",
-      "img": "/img/newsView/id2.jpg",
+      "img": "img/newsView/id2.jpg",
       "type": 1
     },
     {
       "id": 1,
       "title": "11月限定！國際咖啡節優惠享不完",
       "introduction": "所有來客消費咖啡系列任一品項，享買一送一優惠，搭配指定甜點享九折優惠！",
-      "img": "/img/newsView/id1.jpg",
+      "img": "img/newsView/id1.jpg",
       "type": 1
     }
   ],
@@ -53,16 +53,16 @@
       "id": 1,
       "name": "冰心莓果優格",
       "link": "/menu/type/good/1",
-      "img": "/img/menuGoods/cakeB.jpg",
-      "indexImg": "/img/indexMenu/fruitYogurt.jpg",
+      "img": "img/menuGoods/cakeB.jpg",
+      "indexImg": "img/indexMenu/fruitYogurt.jpg",
       "price": 120,
       "type": 3,
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeB.jpg",
-          "/img/menuGoods/cakeA.jpg",
-          "/img/menuGoods/cakeC.jpg",
-          "/img/menuGoods/cakeD.jpg"
+          "img/menuGoods/cakeB.jpg",
+          "img/menuGoods/cakeA.jpg",
+          "img/menuGoods/cakeC.jpg",
+          "img/menuGoods/cakeD.jpg"
         ],
         "features": {
           "flavor": "選用香水草莓，果香濃郁且酸甜平衡，搭配細緻滑順的優格基底，每一口都清爽無負擔",
@@ -84,16 +84,16 @@
       "id": 2,
       "name": "義式黑巧拿鐵",
       "link": "/menu/type/good/2",
-      "img": "/img/menuGoods/cakeH.jpg",
-      "indexImg": "/img/indexMenu/chocolateLatte.jpg",
+      "img": "img/menuGoods/cakeH.jpg",
+      "indexImg": "img/indexMenu/chocolateLatte.jpg",
       "price": 160,
       "type": 1,
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeH.jpg",
-          "/img/menuGoods/cakeA.jpg",
-          "/img/menuGoods/cakeC.jpg",
-          "/img/menuGoods/cakeD.jpg"
+          "img/menuGoods/cakeH.jpg",
+          "img/menuGoods/cakeA.jpg",
+          "img/menuGoods/cakeC.jpg",
+          "img/menuGoods/cakeD.jpg"
         ],
         "features": {
           "flavor": "濃郁的義式巧克力與香醇咖啡完美結合，入口香甜，餘韻醇厚",
@@ -115,8 +115,8 @@
       "id": 3,
       "name": "清爽西瓜特調",
       "link": "/menu/type/good/3",
-      "img": "/img/menuGoods/cakeG.jpg",
-      "indexImg": "/img/indexMenu/refreshingWatermelonSpecial.jpg",
+      "img": "img/menuGoods/cakeG.jpg",
+      "indexImg": "img/indexMenu/refreshingWatermelonSpecial.jpg",
       "price": 100,
       "type": 2,
       "tag": [
@@ -124,10 +124,10 @@
       ],
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeG.jpg",
-          "/img/menuGoods/cakeA.jpg",
-          "/img/menuGoods/cakeC.jpg",
-          "/img/menuGoods/cakeD.jpg"
+          "img/menuGoods/cakeG.jpg",
+          "img/menuGoods/cakeA.jpg",
+          "img/menuGoods/cakeC.jpg",
+          "img/menuGoods/cakeD.jpg"
         ],
         "features": {
           "flavor": "清甜多汁的西瓜風味，結合微酸的檸檬特調，帶來夏日清涼口感",
@@ -149,8 +149,8 @@
       "id": 4,
       "name": "熱壓蘑菇芝士",
       "link": "/menu/type/good/4",
-      "img": "/img/menuGoods/cakeJ.jpg",
-      "indexImg": "/img/indexMenu/mushroomSandwich.jpg",
+      "img": "img/menuGoods/cakeJ.jpg",
+      "indexImg": "img/indexMenu/mushroomSandwich.jpg",
       "price": 100,
       "type": 4,
       "tag": [
@@ -158,10 +158,10 @@
       ],
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeJ.jpg",
-          "/img/menuGoods/cakeA.jpg",
-          "/img/menuGoods/cakeC.jpg",
-          "/img/menuGoods/cakeD.jpg"
+          "img/menuGoods/cakeJ.jpg",
+          "img/menuGoods/cakeA.jpg",
+          "img/menuGoods/cakeC.jpg",
+          "img/menuGoods/cakeD.jpg"
         ],
         "features": {
           "flavor": "濃郁芝士香搭配嫩滑蘑菇，麵包酥脆，內餡濃厚，層次豐富",
@@ -183,8 +183,8 @@
       "id": 5,
       "name": "莓果幕斯塔",
       "link": "/menu/type/good/5",
-      "img": "/img/menuGoods/cakeE.jpg",
-      "indexImg": "/img/indexMenu/berryMousta.jpg",
+      "img": "img/menuGoods/cakeE.jpg",
+      "indexImg": "img/indexMenu/berryMousta.jpg",
       "price": 130,
       "type": 3,
       "tag": [
@@ -192,10 +192,10 @@
       ],
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeE.jpg",
-          "/img/menuGoods/cakeA.jpg",
-          "/img/menuGoods/cakeC.jpg",
-          "/img/menuGoods/cakeD.jpg"
+          "img/menuGoods/cakeE.jpg",
+          "img/menuGoods/cakeA.jpg",
+          "img/menuGoods/cakeC.jpg",
+          "img/menuGoods/cakeD.jpg"
         ],
         "features": {
           "flavor": "濃郁的莓果風味，搭配柔滑的慕斯質地，入口即化，酸甜平衡，層次豐富",
@@ -217,16 +217,16 @@
       "id": 6,
       "name": "法式馬卡龍",
       "link": "/menu/type/good/6",
-      "img": "/img/menuGoods/cakeK.jpg",
-      "indexImg": "/img/indexMenu/macaron.jpg",
+      "img": "img/menuGoods/cakeK.jpg",
+      "indexImg": "img/indexMenu/macaron.jpg",
       "price": 130,
       "type": 3,
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeK.jpg",
-          "/img/menuGoods/cakeA.jpg",
-          "/img/menuGoods/cakeC.jpg",
-          "/img/menuGoods/cakeD.jpg"
+          "img/menuGoods/cakeK.jpg",
+          "img/menuGoods/cakeA.jpg",
+          "img/menuGoods/cakeC.jpg",
+          "img/menuGoods/cakeD.jpg"
         ],
         "features": {
           "flavor": "酥脆外殼搭配柔滑內餡，提供抹茶、香草、巧克力、草莓等多種口味，層次豐富，甜而不膩",
@@ -248,16 +248,16 @@
       "id": 7,
       "name": "抹茶生乳捲",
       "link": "/menu/type/good/7",
-      "img": "/img/menuGoods/cakeF.jpg",
-      "indexImg": "/img/indexMenu/matchaMilkRoll.jpg",
+      "img": "img/menuGoods/cakeF.jpg",
+      "indexImg": "img/indexMenu/matchaMilkRoll.jpg",
       "price": 130,
       "type": 3,
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeF.jpg",
-          "/img/menuGoods/cakeA.jpg",
-          "/img/menuGoods/cakeC.jpg",
-          "/img/menuGoods/cakeD.jpg"
+          "img/menuGoods/cakeF.jpg",
+          "img/menuGoods/cakeA.jpg",
+          "img/menuGoods/cakeC.jpg",
+          "img/menuGoods/cakeD.jpg"
         ],
         "features": {
           "flavor": "濃厚的靜岡抹茶香氣與柔滑的生乳餡相結合，微苦帶甜，尾韻悠長",
@@ -279,15 +279,15 @@
       "id": 8,
       "name": "靜岡抹茶拿鐵",
       "link": "/menu/type/good/8",
-      "img": "/img/menuGoods/cakeI.jpg",
+      "img": "img/menuGoods/cakeI.jpg",
       "price": 160,
       "type": 1,
       "detail": {
         "imgs": [
-          "/img/menuGoods/cakeI.jpg",
-          "/img/menuGoods/cakeA.jpg",
-          "/img/menuGoods/cakeC.jpg",
-          "/img/menuGoods/cakeD.jpg"
+          "img/menuGoods/cakeI.jpg",
+          "img/menuGoods/cakeA.jpg",
+          "img/menuGoods/cakeC.jpg",
+          "img/menuGoods/cakeD.jpg"
         ],
         "features": {
           "flavor": "清新細膩的抹茶香氣，結合濃郁的奶香，茶與奶的比例完美調和",
