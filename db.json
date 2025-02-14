@@ -3,13 +3,13 @@
     {
       "id": 1,
       "img": "img/banner/coffee.webp",
-      "link": "/store",
+      "link": "store",
       "alt": "coffee"
     },
     {
       "id": 2,
       "img": "img/banner/drink.webp",
-      "link": "/menu/type/good/3",
+      "link": "menu/type/good/3",
       "alt": "drink"
     },
     {
