@@ -3,13 +3,13 @@
     {
       "id": 1,
       "img": "img/banner/coffee.webp",
-      "link": "store",
+      "link": "/store",
       "alt": "coffee"
     },
     {
       "id": 2,
       "img": "img/banner/drink.webp",
-      "link": "menu/type/good/3",
+      "link": "/menu/type/good/3",
       "alt": "drink"
     },
     {
@@ -52,7 +52,7 @@
     {
       "id": 1,
       "name": "冰心莓果優格",
-      "link": "menu/type/good/1",
+      "link": "/menu/type/good/1",
       "img": "img/menuGoods/cakeB.webp",
       "indexImg": "img/indexMenu/fruitYogurt.webp",
       "price": 120,
@@ -83,7 +83,7 @@
     {
       "id": 2,
       "name": "義式黑巧拿鐵",
-      "link": "menu/type/good/2",
+      "link": "/menu/type/good/2",
       "img": "img/menuGoods/cakeH.webp",
       "indexImg": "img/indexMenu/chocolateLatte.webp",
       "price": 160,
@@ -114,7 +114,7 @@
     {
       "id": 3,
       "name": "清爽西瓜特調",
-      "link": "menu/type/good/3",
+      "link": "/menu/type/good/3",
       "img": "img/menuGoods/cakeG.webp",
       "indexImg": "img/indexMenu/refreshingWatermelonSpecial.webp",
       "price": 100,
@@ -148,7 +148,7 @@
     {
       "id": 4,
       "name": "熱壓蘑菇芝士",
-      "link": "menu/type/good/4",
+      "link": "/menu/type/good/4",
       "img": "img/menuGoods/cakeJ.webp",
       "indexImg": "img/indexMenu/mushroomSandwich.webp",
       "price": 100,
@@ -182,7 +182,7 @@
     {
       "id": 5,
       "name": "莓果幕斯塔",
-      "link": "menu/type/good/5",
+      "link": "/menu/type/good/5",
       "img": "img/menuGoods/cakeE.webp",
       "indexImg": "img/indexMenu/berryMousta.webp",
       "price": 130,
@@ -216,7 +216,7 @@
     {
       "id": 6,
       "name": "法式馬卡龍",
-      "link": "menu/type/good/6",
+      "link": "/menu/type/good/6",
       "img": "img/menuGoods/cakeK.webp",
       "indexImg": "img/indexMenu/macaron.webp",
       "price": 130,
@@ -247,7 +247,7 @@
     {
       "id": 7,
       "name": "抹茶生乳捲",
-      "link": "menu/type/good/7",
+      "link": "/menu/type/good/7",
       "img": "img/menuGoods/cakeF.webp",
       "indexImg": "img/indexMenu/matchaMilkRoll.webp",
       "price": 130,
@@ -278,7 +278,7 @@
     {
       "id": 8,
       "name": "靜岡抹茶拿鐵",
-      "link": "menu/type/good/8",
+      "link": "/menu/type/good/8",
       "img": "img/menuGoods/cakeI.webp",
       "price": 160,
       "type": 1,
