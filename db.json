@@ -307,7 +307,7 @@
     }
   ],
   "survive": {
-    "id": 1,
+    "id": "1",
     "topFive": [
       { "name": "rizi", "count": 131, "wisdom": 52.67 },
       { "name": "rizi", "count": 88, "wisdom": 43.12 },
