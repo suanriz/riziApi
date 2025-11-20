@@ -305,17 +305,5 @@
         ]
       }
     }
-  ],
-  "survive": [
-    {
-      "id": 1,
-      "topFive": [
-        { "name": "rizi", "count": 131, "wisdom": 52.67 },
-        { "name": "rizi", "count": 88, "wisdom": 43.12 },
-        { "name": "rizi", "count": 72, "wisdom": 41.11 },
-        { "name": "rizi", "count": 69, "wisdom": 37.18 },
-        { "name": "rizi", "count": 16, "wisdom": 49.34 }
-      ]
-    }
   ]
 }
